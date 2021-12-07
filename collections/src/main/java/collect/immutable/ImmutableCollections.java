@@ -1,4 +1,4 @@
-package immutable;
+package collect.immutable;
 
 import java.util.*;
 
