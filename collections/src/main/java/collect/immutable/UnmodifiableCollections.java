@@ -38,7 +38,7 @@ public class UnmodifiableCollections {
         /*
         不可变集合不可以修改集合数据,会出错
          */
-//        unmodifiableList.add("e");
-//        unmodifiableByAsList.add("e");
+        unmodifiableList.add("e");
+        unmodifiableByAsList.add("e");
     }
 }

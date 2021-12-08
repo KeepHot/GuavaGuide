@@ -10,7 +10,7 @@ import lombok.extern.slf4j.Slf4j;
  * @author KevinLiu
  */
 @Slf4j
-public class ImmutableCollections {
+public class ImmutableSetTest {
 
     public static void main(String[] args) {
 
