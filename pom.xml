@@ -23,6 +23,7 @@
     <modules>
         <module>dal</module>
         <module>collections</module>
+        <module>api</module>
     </modules>
 
     <dependencies>
